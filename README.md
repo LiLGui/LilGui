@@ -1,8 +1,13 @@
-### Hi there 👋
+# Hi, i'm Guilherme Máximo 👋
 
-<!--
-**Lilgui/Lilgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is may personal github ##
 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Lilgui&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilgui&show_icons=true&theme=dracula&layout=compact)](https://www.linkedin.com/in/guilherme-m%C3%A1ximo-7880a41a3/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-m%C3%A1ximo-7880a41a3/)](https://www.linkedin.com/in/guilherme-m%C3%A1ximo-7880a41a3/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
