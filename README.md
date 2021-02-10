@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to Japa's lair!</h1><img align="right" src="https://i.imgur.com/Czj9hQz.gif" width="350"/>
 
 ## I'm Guilherme Máximo!
-Full-Stack Developer
+A curious young man unraveling the world of technology
 
-
+Full Stack Developer Jr
 
 <br>
 
