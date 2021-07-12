@@ -3,7 +3,7 @@
 ## I'm Guilherme Máximo!
 A curious young man unraveling the world of technology
 
-Full Stack Developer Jr
+Software Developer!
 
 <br>
 
@@ -44,12 +44,9 @@ Full Stack Developer Jr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... Itaú Unibanco
+- 🌱 I’m currently learning ... C 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with ... C
+- 💬 Ask me about ... Everything
+
